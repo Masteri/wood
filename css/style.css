@@ -178,8 +178,8 @@ span.menu {
   color: #ffffff;
   font-size: 3.5em;
   text-transform: uppercase;
-    font-family: Raleway-SemiBold;
- 
+  /*font-family: Raleway-SemiBold;*/
+
 }
 .caption p{
 	line-height: 1.8em;
@@ -263,16 +263,17 @@ ul.callbacks_tabs.callbacks1_tabs {
   padding: 4em 0;
   background: #eee;
 }
+/*
 .welcome-grid h3 {
   font-size: 2.5em;
   color: #000;
   text-transform: capitalize;
-    font-family: Raleway-SemiBold;
-  }
+   font-family: Raleway-SemiBold;
+  }*/
 .welcome-grid p {
   font-size: 1em;
   color: #555;
-   padding: 1em 0 0 ;
+  padding: 1em 0 0 ;
   line-height: 1.8em;
 }
 a.button {
@@ -363,16 +364,16 @@ a.button {
   font-size: 2.5em;
   color: #1B1B1B;
   text-transform: capitalize;
-    margin-bottom: 0.5em;
-	  padding: 0 0 0 0.4em;
-	    font-family: Raleway-SemiBold;
+  margin-bottom: 0.5em;
+  padding: 0 0 0 0.4em;
+  /*font-family: Raleway-SemiBold;*/
 }
 .new-grid h5{
-    font-size: 1.3em;
+  font-size: 1.3em;
   line-height: 1.5em;
-    color: #FDAFAF;
+  color: #FDAFAF;
   font-weight: 600;
-    font-family: Raleway-SemiBold;
+  /*font-family: Raleway-SemiBold;*/
 }
 .new-grid h6 {
   font-size: 1.4em;
@@ -430,7 +431,7 @@ a.button {
 }
 .top-grid {
   background: #d52f47;
-     padding: 7% 0 7.5% 29%;
+  padding: 7% 0 7.5% 29%;
 }
 .address p {
   font-size: 1em;
@@ -443,8 +444,8 @@ a.button {
   line-height: 1.8em;
   padding: 0.5em 0;
   text-transform: capitalize;
-    font-weight: 600;
-	  font-family: Raleway-SemiBold;
+  font-weight: 600;
+  /*font-family: Raleway-SemiBold;*/
 }
 .bottom-grid {
     padding: 7% 0 7.5% 29%;
