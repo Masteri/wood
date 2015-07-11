@@ -623,7 +623,7 @@ a.button {
   color: #000;
   text-transform: capitalize;
     margin-bottom: 0.3em;
-	   font-family: Raleway-SemiBold;
+    /*font-family: Raleway-SemiBold;*/
 }
 .about-header p {
   font-size: 1.2em;
@@ -638,7 +638,7 @@ a.button {
   font-size: 1.5em;
   color: #d52f47;
   margin: 0.5em 0;
-    font-family: Raleway-SemiBold;
+    /*font-family: Raleway-SemiBold;*/
 }
 .about p {
   font-size: 1em;
@@ -670,14 +670,14 @@ a.button {
   color: #fff;
   text-transform: capitalize;
   margin-bottom: 0.3em;
-      font-family: Raleway-SemiBold;
+  /*font-family: Raleway-SemiBold;*/
 }
 .testimonials h4 {
   font-size: 1.5em;
   color: #d52f47;
   margin: 0.5em 0;
   text-transform: uppercase;
-    font-family: Raleway-SemiBold;
+    /*font-family: Raleway-SemiBold;*/
 }
 .testimonials p {
 font-size: 1em;
@@ -743,10 +743,12 @@ font-size: 1em;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=99)";
 }
 /*--trypography-page--*/
+/*
 .services {
   padding: 4em 0;
 
 }
+*/
 .services h3 {
   font-size: 2.5em;
   color: #000;
