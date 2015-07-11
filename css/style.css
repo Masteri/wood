@@ -501,7 +501,7 @@ a.button {
   color: #d32543;
   text-transform: uppercase;
   margin-bottom: 0.5em;
-    font-family: Raleway-SemiBold;
+  /*font-family: Raleway-SemiBold;*/
  }
 .product li {
   list-style: none;
